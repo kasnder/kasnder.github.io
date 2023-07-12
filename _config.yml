@@ -5,3 +5,7 @@ description: My first website
 
 author:
   name: Konrad Kollnig
+  
+header_pages:
+  - books.md
+  - music.md
