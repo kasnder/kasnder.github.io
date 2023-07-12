@@ -3,8 +3,7 @@ theme: minima
 title: Hello world
 description: My first website
 
-author:
-  name: Konrad Kollnig
+author: Konrad Kollnig
   
 header_pages:
   - books.md
