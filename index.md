@@ -4,7 +4,7 @@ layout: home
 
 Welcome to my personal website!
 
-![me](IMG-20221101-WA0005-2.jpg)
+![me](IMG-20221101-WA0005-2-2.jpg)
 
 ## My upcoming travel
 
