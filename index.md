@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Welcome to my personal website!
+Welcome to my personal website! (This is a demo project for our 2023 interns in Maastricht)
 
 ![me](IMG-20221101-WA0005-2-2.jpg)
 
